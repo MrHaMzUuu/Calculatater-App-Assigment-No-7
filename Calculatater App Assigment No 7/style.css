@@ -1,0 +1,45 @@
+.cbtn {
+    width: 80px;
+height: 80px;
+    margin: 5px;
+
+}
+
+.Custombtn {
+    width: 23%;
+    margin: 0;
+    border-radius: 3px;
+    margin: 1px;
+    border-radius: 10px;
+background-color: #000000 !important; 
+color: azure;
+}
+.container{
+    transform: translate(-50,-50);
+    position: fixed;
+    left: 10%;
+    top: 10%; 
+    background-color:#003566;   
+}
+
+.Custbtn{
+    width: 23%;
+    margin: 0;
+    border-radius: 3px;
+    margin: 1px;
+    border-radius: 10px;
+background-color:red !important; 
+color: azure;
+}
+
+.Cstbtn{
+    
+    width: 23%;
+    margin: 0;
+    border-radius: 3px;
+    margin: 1px;
+    border-radius: 10px;
+background-color:white !important; 
+color:black;
+
+}
